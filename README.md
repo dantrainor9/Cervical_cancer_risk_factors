@@ -13,6 +13,6 @@ However, the grand majority of participants who used hormonal contraceptives use
 
 ![image](https://user-images.githubusercontent.com/91214731/155193485-7e9c9439-6e37-408a-8f40-a897d5ff3c4a.png)
 
-Most of the participants reported never having an STD. The majority of the questions in this survey revolve around specific STD's, this indicates that this survey design has issues with gathering useful data. Revision of questions for the next application of data gathering is recommended.
+Most of the participants reported never having an STD. The majority of the questions in this survey revolve around specific STD's, this indicates that this survey design has issues with gathering useful data. Survey revision for the next round of data gathering is recommended.
 
 Some tree based models and neural networks both proved to have difficulty predicting the positive class (positive biopsy for cervical cancer). This is primarily due to aforementioned class imbalances in the dataset. Despite this, LGBClassifier and RandomForestClassifier both were able to classify correctly more than half of the positive class, based on F1 score, recall, and precision metrics.
