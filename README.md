@@ -5,7 +5,7 @@ This is a classification project to build a model able to predict whether a pers
 
 ![image](https://user-images.githubusercontent.com/91214731/156416571-220ce538-7052-4082-986b-5ffb288c90c9.png)
 
-Some insights from the exploratory data analysis include that more than half of the participants had a history of use of hormonal contraceptives.
+Some insights from the exploratory data analysis using seaborn include that more than half of the participants had a history of use of hormonal contraceptives.
 
 ![image](https://user-images.githubusercontent.com/91214731/156416724-28caa324-6699-48a1-a8b0-7d172b744830.png)
 
