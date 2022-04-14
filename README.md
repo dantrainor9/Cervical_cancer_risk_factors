@@ -13,7 +13,7 @@ However, most of the participants who used hormonal contraceptives used them for
 
 ![image](https://user-images.githubusercontent.com/91214731/156416914-29dedfb7-157f-4665-95a7-574f6c5820d8.png)
 
-Most of the participants reported never having an STD. The majority of the questions in this survey revolve around specific STD's, this indicates that this survey design has issues with gathering useful data. 
+Most of the participants reported never having an STD. The majority of the questions in this survey revolve around specific STD's, this indicates that this survey design has issues with gathering useful data.
 
 ![image](https://user-images.githubusercontent.com/91214731/156417643-3f466e4c-27f6-4fff-a468-2dadd0020df7.png)
 
