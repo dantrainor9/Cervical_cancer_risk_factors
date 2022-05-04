@@ -1,5 +1,5 @@
 # Cervical_cancer_risk_factors
-Data was retrieved from the UCI Machine Learning repository, original survey conducted at Hospital Universitario de Caracas in Caracas, Venezuela. Each feature column represents a question on a survey, each row represents one participant's responses. Participants were kept anonymous and were permitted to skip survey questions
+Data was retrieved from the UCI Machine Learning repository, original survey conducted at Hospital Universitario de Caracas in Caracas, Venezuela. Each feature column represents a question on a survey, each row represents one participant's responses. Participants were kept anonymous and were permitted to skip survey questions.
 
 This is a classification project to build a model able to predict whether a person will have a positive diagnosis of cervical cancer based on 31 risk factors. Four diagnostic tests were available as targets, Hinselman and Schiller tests, cytological examination, and biopsy. Initially, biopsy was used as the target for model development (see video presentation for more information).
 
